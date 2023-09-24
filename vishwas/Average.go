@@ -1,5 +1,9 @@
 package vishwas
 
+func main() {
+
+}
+
 func Average(numbers []float64) float64 {
 	sum := 0.0
 	for _, number := range numbers {
